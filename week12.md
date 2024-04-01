@@ -1,0 +1,7 @@
+https://arxiv.org/pdf/2308.03964.pdf
+
+"Dead or Alive: Continuous Data Profiling for Interactive Data Science" by Will Epperson, Vaishnavi Gorantla, Dominik Moritz, and Adam Perer presents the system AutoProfiler for facilitating interactive data science through continuous data profiling. This system displays data distributions and summary statistics to aid data comprehension and updates the visualizations live as the data changes. This approach supports rapid, interactive data analysis, maing data profiling more efficient compared to the traditional manual methods.
+
+A user study with 16 participants compared two versions of AutoProfiler: one with live updates and another with manual updates. The study found both versions aided participants in discovering insights from the data, with 91% of insights generated through the tool rather than manual coding. The live update feature was intuitive and  verified data transformations immediately, and the manual update version allowed users to control when to view updates and revisit past visualizations.
+
+This paper emphasizes how import integrating automated, live data profiling tools like AutoProfiler into data science workflows to enhance the effectiveness of exploratory data analysis. The findings suggest these tools can accelerate the data analysis process, reduce the need for manual coding, and encourage more thorough data exploration, leading to more insightful outcomes.

@@ -1,0 +1,7 @@
+https://arxiv.org/pdf/2310.00768.pdf
+
+This paper outlines a vision for data analytics where data can be accessed and analyzed ubiquitously, leveraging the rise of smart devices and the IoT devices. This concept hinges on our world becoming more instrumented and a growing opportunity to harness data for real-time, data-driven decision-making in personal and professional settings. The author suggests data analytics can be seamlessly integrated into daily life, transforming how we interact with and derive meaning from data.
+
+This vision talks about recent advances in human cognition research, and proposse that cognitive processes extend beyond the brain to include interactions with our physical environment and the technologies in it. This perspective underlines the shift towards ubiquitous analytics, where data analysis isn't only on desktop environments, and is across a network of devices. This approach aims to enhance decision-making by making analytical tools available anywhere at any time, turning the world into a canvas for data display and manipulation.
+
+The author says that device diversity is key to ubiquitous analytics; he says it is import to utilize an array of devices to enhance analytical tasks. This caters to different user needs and enriches the analytical process by creating multiple perspectives. This paper envisions a future where data analysis is a part of everyday life, supported by devices that work together to provide powerful analytical capabilities to users at different levels of expertise.

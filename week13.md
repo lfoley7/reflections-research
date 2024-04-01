@@ -1,0 +1,7 @@
+http://arxiv.org/abs/2307.11260
+
+The paper introduces an new approach for creating projectional editors for JSON-based DSLs by blending structured editing and customized visualizations. This is done through a cost-effective method leveraging JSON Schemas, enabling the development of interactive editors tailored to various DSLs. The authors demonstrate this concept through Prong. Prong is a prototype system that exemplifies the application of this methodology across different scenarios, including Vega-Lite for data visualization.
+
+This research addresses the challenge of developing bespoke and projectional editors for DSLs, making it more accessible for DSL and application designers. The technique involves mapping GUI elements based on JSON Schemas and an API for creating custom views. This facilitates the generation of projectional editors with enhanced domain-specific functionalities.
+
+This work has the potential to expand the adoption and customization of DSL through enriching DSL tooling through interactive editors. It highlights the feasibility and benefits of integrating structured editing with domain-specific visual enhancements. This creates promising direction for future developments and applications of DSLs.
